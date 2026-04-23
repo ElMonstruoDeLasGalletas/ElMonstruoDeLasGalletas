@@ -42,12 +42,12 @@
 ### 📊 Threat Intel Dashboard (GitHub Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F81D1D&icon_color=F81D1D" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F81D1D" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ElMonstruoDeLasGalletas&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F81D1D&icon_color=F81D1D" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElMonstruoDeLasGalletas&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F81D1D" width="38%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=radical&hide_border=true&background=0D1117&sideNums=F81D1D&stroke=F81D1D" width="87%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElMonstruoDeLasGalletas&theme=radical&hide_border=true&background=0D1117&sideNums=F81D1D&stroke=F81D1D" width="87%" />
 </p>
 
 ---
