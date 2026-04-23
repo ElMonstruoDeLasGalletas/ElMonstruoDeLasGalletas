@@ -29,9 +29,9 @@
   <i>App Development</i>
 </td>
    <td width="33%" align="center">
-  <img src="Pentester2.png" style="height:150px; display:block; margin:auto;">
-  <i style="display:block; margin-top:5px;">Offensive Security</i>
-</td>
+      <img src="Pentester2.png"/><br>
+      <i>Offensive Security</i>
+    </td>
   </tr>
 </table>
 
