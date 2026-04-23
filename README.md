@@ -1,5 +1,5 @@
 <p align="center">
- <img src="banner.gif" alt="Banner" width="100%"/>
+ <img src="Banner.gif" alt="Banner" width="100%"/>
 
 <h1 align="center">⚔️ Damián Carrillo Arjones</h1>
 <p align="center">
