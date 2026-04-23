@@ -19,7 +19,7 @@
 <table align="center">
   <tr>
     <td width="33%" align="center">
-      <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-security-protection-flat-flat-juicy-fish.png"/><br>
+      <img src="ejpt.png"/><br>
       <b>eJPT Certified</b><br>
       <i>INE Security</i>
     </td>
