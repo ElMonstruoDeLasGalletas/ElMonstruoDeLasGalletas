@@ -29,8 +29,7 @@
       <i>App Development</i>
     </td>
     <td width="33%" align="center">
-      <img src="https://img.icons8.com/fluency/60/skull.png"/><br>
-      <b>Junior Pentester</b><br>
+      <img src="Pentester.png"/><br>
       <i>Offensive Security</i>
     </td>
   </tr>
