@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=DAMIAN%20CARRILLO&fontSize=70&animation=fadeIn&fontAlignY=35&theme=dark" alt="Banner" width="100%"/>
+  <img src="banner.gif" alt="Banner" width="100%"/>
 </p>
 
 <h1 align="center">⚔️ Damián Carrillo Arjones</h1>
