@@ -24,7 +24,7 @@
       <i>INE Security</i>
     </td>
     <td width="33%" align="center">
-  <img src="Logo3.png" width="200"/><br>
+  <img src="Logo3.png" width="250"/><br>
   <b>Grado Sup. DAM</b><br>
   <i>App Development</i>
 </td>
