@@ -19,7 +19,7 @@
 <table align="center">
   <tr>
     <td width="33%" align="center">
-      <img src="ejpt.png"/><br>
+      <img src="ejpt.png"width="250"/><br>
       <b>eJPT Certified</b><br>
       <i>INE Security</i>
     </td>
