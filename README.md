@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/TU_LINKEDIN/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:TU_EMAIL@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:d.carrilloar@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://tryhackme.com/p/TU_USUARIO"><img src="https://img.shields.io/badge/TRYHACKME-212c42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
 </p>
 
@@ -24,7 +24,7 @@
       <i>INE Security</i>
     </td>
     <td width="33%" align="center">
-      <img src="https://img.icons8.com/fluency/60/code.png"/><br>
+      <img src="Logo.png"/><br>
       <b>Grado Sup. DAM</b><br>
       <i>App Development</i>
     </td>
