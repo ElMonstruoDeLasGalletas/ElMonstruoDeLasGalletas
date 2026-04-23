@@ -30,7 +30,7 @@
 </td>
     <td width="33%" align="center">
       <img src="Pentester2.png"/><br>
-      <b>Offensive Security</b><br>
+      <i>Offensive Security</i>
     </td>
   </tr>
 </table>
