@@ -75,9 +75,9 @@
 ### 📈 Deployment Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO_GITHUB&theme=react-dark&area=true&hide_border=true&bg_color=0D1117&color=F81D1D" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ElMonstruoDeLasGalletas&theme=react-dark&area=true&hide_border=true&bg_color=0D1117&color=F81D1D" width="100%" />
 </p>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB&label=SYSTEM+ACCESSES&color=red&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=ElMonstruoDeLasGalletas&label=SYSTEM+ACCESSES&color=red&style=flat-square" alt="Views" />
 </p>
