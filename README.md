@@ -29,7 +29,7 @@
   <i>App Development</i>
 </td>
     <td width="33%" align="center">
-      <img src="Pentester2.png"style="display:block; margin:auto;"/><br>
+      <img src="Pentester2.png"/><br>
       <i>Offensive Security</i>
     </td>
   </tr>
