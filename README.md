@@ -24,10 +24,10 @@
       <i>INE Security</i>
     </td>
     <td width="33%" align="center">
-      <img src="Logo3.png"/><br>
-      <b>Grado Sup. DAM</b><br>
-      <i>App Development</i>
-    </td>
+  <img src="Logo3.png" width="120"/><br>
+  <b>Grado Sup. DAM</b><br>
+  <i>App Development</i>
+</td>
     <td width="33%" align="center">
       <img src="Pentester2.png"/><br>
       <i>Offensive Security</i>
