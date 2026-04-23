@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/damián-carrillo-aa5540340/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:d.carrilloar@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://tryhackme.com/p/TU_USUARIO"><img src="https://img.shields.io/badge/TRYHACKME-212c42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
 </p>
